@@ -1,7 +1,6 @@
 import static io.restassured.RestAssured.given;
 
 public class OrderClient extends RestAssuredClient {
-
     private final String ORDER = "/api/v1/orders";
     int order;
 

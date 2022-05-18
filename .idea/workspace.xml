@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab6e5454-0f21-4b75-b258-e4255565ccf3" name="Changes" comment="add">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/bin/allure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/bin/allure.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/config/allure-cucumber.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/config/allure-junit.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/config/allure.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/allure-commandline-2.15.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/allure-generator-2.15.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/allure-model-2.15.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/allure-plugin-api-2.15.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/allure1-model-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/annotations-15.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/commons-beanutils-1.9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/commons-codec-1.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/commons-collections-3.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/commons-collections4-4.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/commons-io-2.11.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/commons-lang3-3.12.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/commons-text-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/config/jetty-logging.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/config/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/flexmark-0.62.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/flexmark-util-ast-0.62.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/flexmark-util-builder-0.62.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/flexmark-util-collection-0.62.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/flexmark-util-data-0.62.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/flexmark-util-dependency-0.62.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/flexmark-util-format-0.62.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/flexmark-util-html-0.62.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/flexmark-util-misc-0.62.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/flexmark-util-sequence-0.62.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/flexmark-util-visitor-0.62.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/freemarker-2.3.31.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/httpclient-4.5.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/httpcore-4.4.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/jackson-annotations-2.12.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/jackson-core-2.12.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/jackson-databind-2.12.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/jackson-dataformat-xml-2.12.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/jackson-dataformat-yaml-2.12.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/jackson-module-jaxb-annotations-2.12.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/jakarta.activation-api-1.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/jakarta.xml.bind-api-2.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/javax.activation-api-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/javax.servlet-api-3.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/jaxb-api-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/jaxb-utils-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/jcommander-1.81.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/jetty-http-9.4.43.v20210629.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/jetty-io-9.4.43.v20210629.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/jetty-server-9.4.43.v20210629.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/jetty-util-9.4.43.v20210629.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/log4j-1.2.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/opencsv-4.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/properties-2.0.RC5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/slf4j-api-1.7.32.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/slf4j-log4j12-1.7.32.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/snakeyaml-1.27.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/stax2-api-4.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/tika-core-2.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/lib/woodstox-core-6.2.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/behaviors-plugin/allure-plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/behaviors-plugin/behaviors-plugin-2.15.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/behaviors-plugin/static/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/custom-logo-plugin/allure-plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/custom-logo-plugin/custom-logo-plugin-2.15.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/custom-logo-plugin/static/custom-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/custom-logo-plugin/static/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/jira-plugin/allure-plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/jira-plugin/jira-plugin-2.15.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/jira-plugin/lib/allure-jira-commons-2.15.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/jira-plugin/lib/converter-jackson-2.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/jira-plugin/lib/jackson-annotations-2.12.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/jira-plugin/lib/jackson-core-2.12.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/jira-plugin/lib/jackson-databind-2.12.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/jira-plugin/lib/okhttp-3.12.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/jira-plugin/lib/okio-1.15.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/jira-plugin/lib/retrofit-2.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/junit-xml-plugin/allure-plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/junit-xml-plugin/junit-xml-plugin-2.15.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/packages-plugin/allure-plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/packages-plugin/packages-plugin-2.15.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/packages-plugin/static/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/screen-diff-plugin/allure-plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/screen-diff-plugin/screen-diff-plugin-2.15.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/screen-diff-plugin/static/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/screen-diff-plugin/static/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/trx-plugin/allure-plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/trx-plugin/trx-plugin-2.15.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/xctest-plugin/allure-plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/xctest-plugin/lib/xmlwise-1.2.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/xctest-plugin/xctest-plugin-2.15.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/xray-plugin/allure-plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/xray-plugin/lib/allure-jira-commons-2.15.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/xray-plugin/lib/converter-jackson-2.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/xray-plugin/lib/jackson-annotations-2.12.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/xray-plugin/lib/jackson-core-2.12.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/xray-plugin/lib/jackson-databind-2.12.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/xray-plugin/lib/okhttp-3.12.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/xray-plugin/lib/okio-1.15.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/xray-plugin/lib/retrofit-2.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/xray-plugin/xray-plugin-2.15.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/xunit-xml-plugin/allure-plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.allure/allure-2.15.0/plugins/xunit-xml-plugin/xunit-xml-plugin-2.15.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/allure-results/029a0b0f-8a63-4432-b331-8b54bd0a9534-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/allure-results/0b57e359-e229-4f77-bc49-3f9162c3e140-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/allure-results/1530e6dc-0556-46df-b99e-563ad9785b70-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/allure-results/26939007-131e-4ac4-a533-8a202f916e69-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/allure-results/428e2aad-57b9-4b2c-8df6-9f922cbbaf3c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/allure-results/6048e0b6-9b41-4e21-a620-b09e8c0aca70-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/allure-results/70752e0f-5992-4b59-bd22-01276aeece8e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/allure-results/a3beb754-3b78-470d-8b9c-a798d1357a0f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/allure-results/allure.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/allure-results/b3f71ff4-0094-40a2-91f3-ccc05e710f75-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/allure-results/c1dbec58-2d5e-4dec-851a-bdf1665f632a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/allure-results/cfc1a7c1-e994-4af7-94c2-6b9e738a2c81-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/allure-results/e984b864-4e3f-40f4-bacb-e5765ac8bd69-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/allure-results/efb1b304-b6dc-4a35-9ace-4d5aa49de21f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/allure-results/executor.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/allure-results/f3332824-983f-4317-b32e-c7a6cda78fab-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/Courier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/CourierClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/CourierCredentials.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/OrderClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/OrderList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/RestAssuredClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/surefire-reports/CourierCreatedTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/surefire-reports/CourierLoginTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/surefire-reports/CourierTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/surefire-reports/OrderTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/surefire-reports/TEST-CourierCreatedTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/surefire-reports/TEST-CourierLoginTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/surefire-reports/TEST-CourierTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/surefire-reports/TEST-OrderTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/test-classes/BackOrderList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/test-classes/CourierCreatedTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/test-classes/CourierLoginTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/test-classes/CourierTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/test-classes/OrderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/029a0b0f-8a63-4432-b331-8b54bd0a9534-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/0b57e359-e229-4f77-bc49-3f9162c3e140-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/1530e6dc-0556-46df-b99e-563ad9785b70-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/26939007-131e-4ac4-a533-8a202f916e69-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/428e2aad-57b9-4b2c-8df6-9f922cbbaf3c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/6048e0b6-9b41-4e21-a620-b09e8c0aca70-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/70752e0f-5992-4b59-bd22-01276aeece8e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/a3beb754-3b78-470d-8b9c-a798d1357a0f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/allure.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/allure.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/b3f71ff4-0094-40a2-91f3-ccc05e710f75-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/c1dbec58-2d5e-4dec-851a-bdf1665f632a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/cfc1a7c1-e994-4af7-94c2-6b9e738a2c81-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/e984b864-4e3f-40f4-bacb-e5765ac8bd69-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/efb1b304-b6dc-4a35-9ace-4d5aa49de21f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/f3332824-983f-4317-b32e-c7a6cda78fab-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/CourierCreatedTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/CourierCreatedTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/CourierLoginTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/CourierLoginTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/CourierTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/CourierTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/OrderTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/OrderTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-CourierCreatedTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-CourierCreatedTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-CourierLoginTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-CourierLoginTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-CourierTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-CourierTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-OrderTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-OrderTest.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/main" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$/src" value="develop" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+    <option name="RESET_MODE" value="MIXED" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="ZaurbekM" />
+        <option name="repository" value="Sprint_3" />
+      </RepoCoordinatesHolder>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="28fDxpVnyVCjcoRLUiATn8ny7cc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn clean test" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.CourierCreatedTest.createWithoutLogin">
+    <configuration name="CourierCreatedTest.createWithoutFirstName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CourierCreatedTest" />
+      <option name="METHOD_NAME" value="createWithoutFirstName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CourierCreatedTest.createWithoutLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CourierCreatedTest" />
+      <option name="METHOD_NAME" value="createWithoutLogin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CourierCreatedTest.createWithoutPassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CourierCreatedTest" />
+      <option name="METHOD_NAME" value="createWithoutPassword" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CourierLoginTest.courierNotCorrectLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CourierLoginTest" />
+      <option name="METHOD_NAME" value="courierNotCorrectLogin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CourierLoginTest.loginCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CourierLoginTest" />
+      <option name="METHOD_NAME" value="loginCheck" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CourierCreatedTest.createWithoutLogin" />
+        <item itemvalue="JUnit.CourierCreatedTest.createWithoutFirstName" />
+        <item itemvalue="JUnit.CourierCreatedTest.createWithoutPassword" />
+        <item itemvalue="JUnit.CourierLoginTest.loginCheck" />
+        <item itemvalue="JUnit.CourierLoginTest.courierNotCorrectLogin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab6e5454-0f21-4b75-b258-e4255565ccf3" name="Changes" comment="" />
+      <created>1651599003892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651599003892</updated>
+    </task>
+    <task id="LOCAL-00001" summary="push">
+      <created>1652686517354</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652686517354</updated>
+    </task>
+    <task id="LOCAL-00002" summary="pushSRC">
+      <created>1652711239142</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652711239142</updated>
+    </task>
+    <task id="LOCAL-00003" summary="pushSRC">
+      <created>1652714080188</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652714080188</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add allure report">
+      <created>1652740293792</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652740293792</updated>
+    </task>
+    <task id="LOCAL-00005" summary="com1">
+      <created>1652745514237</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652745514237</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add allure report">
+      <created>1652746540837</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1652746540837</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add">
+      <created>1652746821882</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1652746821882</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add allure report">
+      <created>1652772219748</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1652772219748</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add allure report">
+      <created>1652829379197</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1652829379197</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="develop2" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="push" />
+    <MESSAGE value="pushSRC" />
+    <MESSAGE value="com1" />
+    <MESSAGE value="add allure report" />
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Sprint3$CourierTest_courier.ic" NAME="CourierTest.courier Coverage Results" MODIFIED="1652135408061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
