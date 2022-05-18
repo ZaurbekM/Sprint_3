@@ -1,12 +1,7 @@
 import io.qameta.allure.junit4.DisplayName;
 import org.junit.Test;
-
-
-
 import java.util.List;
-
 import static org.junit.Assert.assertFalse;
-
 
 public class BackOrderList{
     OrderList orderList = new OrderList();

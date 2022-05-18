@@ -16,7 +16,6 @@ public class CourierClient extends RestAssuredClient {
 
     }
 
-
     public int login(CourierCredentials creds) {
         return given()
                 .spec(getSpec())

@@ -12,7 +12,6 @@ public class CourierCreatedTest {
         courierClient = new CourierClient();
     }
 
-
     @Test
     @DisplayName("Ошибка при создании курьера без логина")
     public void createWithoutLogin() {
@@ -35,7 +34,7 @@ public class CourierCreatedTest {
     @DisplayName("Создание курьера без имени")
     public void createWithoutFirstName(){
         String login = RandomStringUtils.randomNumeric(4);
-        String firstName = "" ;
+        String firstName = "";
         Courier courier = new Courier(login, "qwerty", firstName);
         courierClient.create(courier).then().assertThat().statusCode(201);
     }
