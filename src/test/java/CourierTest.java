@@ -1,4 +1,4 @@
-import io.restassured.response.ValidatableResponse;
+
 import org.junit.Test;
 import io.qameta.allure.junit4.DisplayName;
 import org.junit.After;
@@ -38,7 +38,7 @@ public class CourierTest {
     @DisplayName("Проверка при дубле логина")
     public void courierLoginDouble() {
         courierClient.create(courier).then().assertThat().statusCode(201);
-        ValidatableResponse created = courierClient.create(courier).then().assertThat().statusCode(409).body("message",equalTo("Этот логин уже используется. Попробуйте другой."));
+        courierClient.create(courier).then().assertThat().statusCode(409).body("message",equalTo("Этот логин уже используется. Попробуйте другой."));
     }
 
 
