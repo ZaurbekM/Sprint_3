@@ -1,4 +1,5 @@
 import io.qameta.allure.junit4.DisplayName;
+import org.apache.commons.lang.RandomStringUtils;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
@@ -57,7 +58,7 @@ public class CourierLoginTest {
     @DisplayName("Авторизация с некорректным паролем")
     public void courierNotCorrectPassword() {
         courierClient.create(courier);
-        String noPassword = "nopassword";
+        String noPassword = RandomStringUtils.randomNumeric(4);;
         courierClient.loginResponse(new CourierCredentials(courier.login, noPassword));
         courierClient.response.then().statusCode(404).assertThat().body("message", equalTo("Учетная запись не найдена"));
     }
@@ -67,7 +68,7 @@ public class CourierLoginTest {
     @DisplayName("Авторизация с некорректным логином")
     public void courierNotCorrectLogin() {
         courierClient.create(courier);
-        String noLogin = "noLogin";
+        String noLogin = RandomStringUtils.randomNumeric(4);;
         courierClient.loginResponse(new CourierCredentials(noLogin, courier.password));
         courierClient.response.then().statusCode(404).assertThat().body("message", equalTo("Учетная запись не найдена"));
     }
